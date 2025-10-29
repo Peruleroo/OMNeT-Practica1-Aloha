@@ -1,0 +1,23 @@
+# Archivos compilados y binarios
+*.o
+*.dll
+*.exe
+*.so
+
+# Directorio de compilación de OMNeT++
+out/
+
+# Archivos de resultados de simulación (¡muy grandes!)
+*.vec
+*.sca
+*.vci
+
+# Metadatos del IDE
+.project
+.cproject
+.settings/
+
+# Archivos temporales
+*~
+*.bak
+*.swp
